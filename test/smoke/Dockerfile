@@ -1,5 +1,4 @@
-FROM alpine:3.17.4
-
+FROM alpine
 RUN apk add curl
 
 ADD smoke-test.sh smoke-test.sh
