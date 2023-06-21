@@ -6,7 +6,7 @@ ADD smoke-test.sh smoke-test.sh
 
 ADD smoke-test.sh smoke-test.sh
 
-ADD smoke-test.sh smoke-test.sh
+COPY smoke-test.sh smoke-test.sh
 
 ADD smoke-test.sh smoke-test.sh
 
